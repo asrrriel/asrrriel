@@ -1,6 +1,6 @@
 # Hi Im Asriel 👋
 
-- 🔭 I’m currently working on : [\<SECRET\>](https://raw.githubusercontent.com/lolguy91/lolguy91/main/azzy.md)
+- 🔭 I’m currently working on : [LeaderlessGIT](https://github.com/asrrriel/LeaderlessGIT)
 - 📫 my Discord: asrrriel
 - 😄 Pronouns: he/him
 
